@@ -1,0 +1,15 @@
+{
+  "name": "com.tftools.tests",
+  "version": "0.0.1",
+  "displayName": "_TEST-UPM",
+  "description": "test",
+  "unity": "2019.2",
+  "unityRelease": "4f1",
+  "keywords": [],
+  "author": {
+    "name": "Thomas Fuentes",
+    "email": "thomasfuentestools@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tests"
+}
